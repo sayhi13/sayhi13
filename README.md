@@ -19,7 +19,7 @@ I am a cybersecurity student exploring **user-space and kernel exploitation**, *
 ### Featured Research & Projects
 
 * **[House of Greet](https://github.com/sayhi13/House-of-Greet)** — Heap exploitation research targeting the `ptmalloc2` unsorted bin across `glibc <= 2.27` and `glibc >= 2.28`, complete with memory diagrams, unlink analysis, and proof-of-concept code.
-* **[Binary Exploitation Manual](https://github.com/sayhi13/CTF-writeups/blob/main/pwn-cheatsheet.txtl)** — A structured 3000+ line reference covering exploitation primitives, allocator mechanics, and modern exploit mitigations.
+* **[Binary Exploitation Manual](https://github.com/sayhi13/CTF-writeups/blob/main/pwn-cheatsheet.txt)** — A structured 3000+ line reference covering exploitation primitives, allocator mechanics, and modern exploit mitigations.
 * **[Low-Level Security & Network Tools](https://github.com/sayhi13/Projects)** — Custom C/C++ and NASM assembly utilities built from scratch, including raw-socket tooling and syscall-level experiments.
 
 ---
