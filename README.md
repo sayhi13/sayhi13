@@ -26,7 +26,7 @@ I am a cybersecurity student exploring **user-space and kernel exploitation**, *
 
 ### Track Record & Highlights
 
-* **Top 350 globally** on `pwnable.tw` across binary exploitation and reverse engineering challenges.
+* **Top 350 globally** on [pwnable.tw](https://pwnable.tw/user/41451) across binary exploitation and reverse engineering challenges without using agents
 * **DEF CON 31 LiveCTF Finals** — Solved almost all challenges
 * **Open-Source Technical Writeups** — Published allocator research and reproducible proof-of-concept harnesses.
 
